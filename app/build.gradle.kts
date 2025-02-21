@@ -2,6 +2,8 @@ plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.jetbrains.kotlin.android)
     id("com.google.gms.google-services")
+    id("com.android.application")
+
 }
 
 android {
@@ -53,6 +55,7 @@ android {
 dependencies {
     // necessário para o Firebase/Firestore
     implementation(platform(libs.firebase.bom))
+    implementation(platform("com.google.firebase:firebase-bom:33.9.0"))
     implementation(libs.firebase.analytics)
     implementation(libs.firebase.firestore)
     implementation(libs.firebase.common.ktx)

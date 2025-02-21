@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "407688199761",
-    "project_id": "pdm-usuario",
-    "storage_bucket": "pdm-usuario.appspot.com"
+    "project_number": "1052409571026",
+    "project_id": "study-managment",
+    "storage_bucket": "study-managment.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:407688199761:android:48c8849ef9d5fcfe60c270",
+        "mobilesdk_app_id": "1:1052409571026:android:a3fc7ebbb55c5ac664ef0b",
         "android_client_info": {
           "package_name": "com.example.navegacao1"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDPJwj89vpuaN5kInBJrsDD5HauDAzoLo8"
+          "current_key": "AIzaSyBZjxGWizsRsuRlt9jYaLHFkPFsxwaDBYc"
         }
       ],
       "services": {
